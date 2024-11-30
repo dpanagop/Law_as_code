@@ -12,8 +12,9 @@ This Jupyter Notebook provides a Python implementation to extract and organize i
 
 1. **Install Required Libraries:**
    Ensure you have the following libraries installed:
-   ```pip install PyMuPDF pandas numpy```
-2. **Run the Jupyter Notebook:**
+   
+   ```pip install pymupdf pandas numpy```
+3. **Run the Jupyter Notebook:**
    * Open the fek_extractor.ipynb notebook.
    * Replace the placeholder file paths with the actual paths to your FEK PDF files.
    * Execute the cells in the notebook to process the PDFs and extract information.
